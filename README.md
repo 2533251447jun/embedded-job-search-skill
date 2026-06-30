@@ -1,6 +1,6 @@
 # embedded-job-search-skill
 
-`embedded-job-search-skill` 是一个独立命名的 Codex/Agent Skill 项目，用于帮助候选人基于真实经历准备中国国内嵌入式相关岗位求职。
+`embedded-job-search-skill` 是一个独立命名的 Codex/Agent Skill 项目，用于帮助候选人基于真实经历准备国内嵌入式相关岗位求职。
 
 它服务的不是泛求职场景，而是 STM32/MCU 固件、嵌入式测试、硬件调试/联调、IoT、工业控制、BSP/驱动/Linux、车载通信测试、医疗/仪器/安防/消费电子等岗位族。
 
